@@ -18,4 +18,4 @@ Windowsのデフォルトお天気ガジェットは上記非推奨化と同時�
   * sub.htmlの8行目を編集
   * http://www.tenki.jp/webservice/blogparts/weather
 
-
+![capture](Weather_u/image/capture.png)

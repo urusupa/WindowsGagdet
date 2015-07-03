@@ -10,6 +10,9 @@ http://windows.microsoft.com/ja-jp/windows/gadgets
 Windowsのデフォルトお天気ガジェットは上記非推奨化と同時に外部に接続できなくなり使えなくなった。
 その代替とする。
 
+ダウンロードはこちらから
+https://github.com/urusupa/WindowsGagdet/blob/master/Weather_u.gadget?raw=true
+
 **usage**
 * 歯車マークでgadgetフォルダを開く
 * 更新マークで最新の情報へ更新する

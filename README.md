@@ -10,3 +10,12 @@ http://windows.microsoft.com/ja-jp/windows/gadgets
 Windowsのデフォルトお天気ガジェットは上記非推奨化と同時に外部に接続できなくなり使えなくなった。
 その代替とする。
 
+**usage**
+* 歯車マークでgadgetフォルダを開く
+* 更新マークで最新の情報へ更新する
+* 右下のタイムスタンプは最終更新時間  
+* 表示地域の変更
+  * sub.htmlの8行目を編集
+  * http://www.tenki.jp/webservice/blogparts/weather
+
+

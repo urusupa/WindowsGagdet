@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+	<name>Weather_u</name>
+	<version>1.0.0.0</version>
+	<author name="nyctea">
+		<info url="nyctea.me" />
+		<logo src="image/sun.png" />
+	</author>
+	<copyright>nyctea</copyright>
+	<description>お天気ガジェット.デフォルトのお天気ガジェットが使い物にならなくなったから作った.データソース：http://www.tenki.jp/</description>
+	<icons>
+		<icon height="64" width="64" src="image/sun.png" />
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="main.html" />
+			<permissions>Full</permissions>
+			<platform minPlatformVersion="1.0" />
+		</host>
+	</hosts>
+</gadget>

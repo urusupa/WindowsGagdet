@@ -1,0 +1,33 @@
+* { margin: 0; padding: 0; }
+body { width: 142px; height: 224px; }
+body { width: 142px; height: 224px; }
+
+img {border-style:none;
+}
+
+a { text-decoration: none;
+}
+
+#elem { position:relative;
+	top:-20px;
+	left:-6px;
+}
+
+#cog16 { position:relative;
+	top:-20px;
+	left:0px;
+}
+
+#reload { position:relative;
+	top:-20px;
+	left:0px;
+	width:16px;
+	height:16px;
+}
+
+#LUT { font-size: 10px;
+	display: inline;
+	position: relative;
+	top: -25px;
+	left:10px;
+}
